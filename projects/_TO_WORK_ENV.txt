@@ -1,0 +1,1 @@
+export PATH=$PATH:/home/maciej/Desktop/moje/programming/RPi/yocto/poky/scripts:/home/maciej/Desktop/moje/programming/RPi/yocto/poky/bitbake/bin:
